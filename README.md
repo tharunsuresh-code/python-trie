@@ -35,7 +35,7 @@ True
 ```
 
 ## Author and References
-Docs are inspired from [PyTrie](https://github.com/gsakkis/pytrie) and [datrie](https://github.com/pytries/datrie).
+Docs are inspired from [PyTrie](https://github.com/gsakkis/pytrie) and [datrie](https://github.com/pytries/datrie). Trie definition from [geeksforgeeks](https://www.geeksforgeeks.org/trie-insert-and-search/).
 
 ## License
 Licensed under MIT.
