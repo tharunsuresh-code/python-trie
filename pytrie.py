@@ -11,7 +11,7 @@ tries are used in spell checking programs.
 
 Preprocessing pattern improves the performance of pattern matching algorithm. 
 But if a text is very large then it is better to preprocess text instead of 
-pattern for efficient search.
+pattern for efficient search. 
 A trie is a data structure that supports pattern matching queries in time 
 proportional to the pattern size.
 
