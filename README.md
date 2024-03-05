@@ -34,7 +34,18 @@ False
 True
 ```
 
-## Author and References
+### Wildcard Search
+You can also search for words using wildcard `.` character. It replaces for one single character:
+```python
+>>> trie.search("H.rr.")
+True
+>>> trie.search("P...")
+False
+>>> trie.search("P....r")
+True
+```
+
+## References
 Docs are inspired from [PyTrie](https://github.com/gsakkis/pytrie) and [datrie](https://github.com/pytries/datrie). Trie definition from [geeksforgeeks](https://www.geeksforgeeks.org/trie-insert-and-search/).
 
 ## License
